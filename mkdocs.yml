@@ -1,5 +1,5 @@
 # Site Config
-site_name: SantYaGo10K Info
+site_name: Info SantYaGo10K
 site_description: Página de Ayuda de la Carrera Nocturna SantYaGo10K
 site_author: Atletismo Fontes do Sar
 site_url: https://info.santyago10k.run/
@@ -9,7 +9,7 @@ docs_dir: info
 dev_addr: '127.0.0.1:8008'
 
 # Repository
-repo_name: Info SantYaGo10K
+repo_name: Código Fuente
 repo_url: https://github.com/SantYaGo10K/Info
 edit_uri: blob/master/info/
 
@@ -82,6 +82,9 @@ plugins:
       redirect_maps:
         '2023/index.md': 'index.md'
         '2023/reglamento.md': 'reglamento.md'
+        # Políticas Legales
+        'praza/terminos.md': 'praza/legal/terminos.md'
+        'praza/privacidad.md': 'praza/legal/privacidad.md'
 
 markdown_extensions:
   - codehilite
@@ -127,5 +130,11 @@ nav:
       - Reglamento: 2019/reglamento.md
   - Praza:
     - praza/index.md
+    - Devolución de Cuota: praza/devolucion.md
+    - Legal:
+      - praza/legal/index.md
+      - Términos y Condiciones: praza/legal/terminos.md
+      - Política de Privacidad: praza/legal/privacidad.md
   - Ayuda:
     - ayuda/index.md
+    - Responsables: ayuda/responsables.md
