@@ -1,0 +1,131 @@
+# Site Config
+site_name: SantYaGo10K Info
+site_description: Página de Ayuda de la Carrera Nocturna SantYaGo10K
+site_author: Atletismo Fontes do Sar
+site_url: https://info.santyago10k.run/
+docs_dir: info
+
+# Dev
+dev_addr: '127.0.0.1:8008'
+
+# Repository
+repo_name: Info SantYaGo10K
+repo_url: https://github.com/SantYaGo10K/Info
+edit_uri: blob/master/info/
+
+# Copyright text in the footer
+copyright: Club Atletismo Fontes do Sar &copy; 2019 - 2023
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/solid/globe
+      link: https://2023.santyago10k.run
+      name: SantYaGo10K 2023
+    - icon: fontawesome/solid/ticket
+      link: https://praza.santyago10k.run
+      name: Praza SantYaGo10K
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/santyago10k
+      name: Dános like en Instagram!
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/santyago10k
+      name: Visítanos en Facebook!
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/santyago10k
+      name: Síguenos en Twitter!
+  generator: false
+
+# Material theme for MkDocs : https://github.com/squidfunk/mkdocs-material/
+theme:
+  name: 'material'
+  language: es
+  features:
+    - content.tabs.link
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-4
+        name: Cambia al modo oscuro
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/brightness-7
+        name: Cambia al modo claro
+  logo: 'assets/logo.png'
+  favicon: 'assets/favicon.ico'
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      type: date
+      timezone: Europe/Madrid
+      locale: es
+      fallback_to_build_date: true
+  - redirects:
+      redirect_maps:
+        '2023/index.md': 'index.md'
+        '2023/reglamento.md': 'reglamento.md'
+
+markdown_extensions:
+  - codehilite
+  - def_list
+  # Markdown extensions: https://python-markdown.github.io/extensions/
+  - admonition
+  - toc:
+      permalink: true
+  - attr_list
+  - md_in_html
+  # PyMdown Extensions
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# Site navigation in the sidebar
+nav:
+  - 2023:
+    - index.md
+    - Reglamento: reglamento.md
+  - Ediciones Anteriores:
+    - ediciones.md
+    - 2022:
+      - 2022/index.md
+      - Reglamento: 2022/reglamento.md
+    - 2020:
+      - 2020/index.md
+    - 2019:
+      - 2019/index.md
+      - Reglamento: 2019/reglamento.md
+  - Praza:
+    - praza/index.md
+  - Ayuda:
+    - ayuda/index.md
