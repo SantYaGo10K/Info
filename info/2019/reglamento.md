@@ -310,6 +310,6 @@ A organización reservase o dereito de facer algún cambio no presente regulamen
 comunícalo na web oficial, redes sociais e por medio de correo electrónico a aqueles inscritos que o facilitaran durante
 a inscrición.
 
-## Consideración Final
+## CONSIDERACIÓN FINAL
 
 Todo o non reflectido no presente regulamento rexerase polas normas da FGA, RFEA e da IAAF.
