@@ -1,6 +1,6 @@
 # 2023 - 7ª Edición
 
-**6 de Mayo del 2022**
+**6 de Mayo del 2023**
 
 [2023.santyago10k.run](https://2023.santyago10k.run/)
 
