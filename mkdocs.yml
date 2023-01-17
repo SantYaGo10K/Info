@@ -79,6 +79,8 @@ plugins:
       redirect_maps:
         '2023/index.md': 'index.md'
         '2023/reglamento.md': 'reglamento/index.md'
+        '2023/reglamento/historial.md': 'reglamento/historial.md'
+        '2023/reglamento/premiacion.md': 'reglamento/premiacion.md'
 
 markdown_extensions:
   - codehilite
@@ -114,6 +116,7 @@ nav:
     - Reglamento:
       - reglamento/index.md
       - Historial de Cambios: reglamento/historial.md
+      - Premiación: reglamento/premiacion.md
   - Ediciones Anteriores:
     - ediciones.md
     - 2022:

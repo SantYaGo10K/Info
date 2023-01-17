@@ -7,3 +7,7 @@
 ## Reglamento
 
 [Ir al Reglamento](./reglamento.md){ .md-button .md-button--primary }
+
+## Preguntas Frecuentes
+
+...
