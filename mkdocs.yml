@@ -78,7 +78,7 @@ plugins:
   - redirects:
       redirect_maps:
         '2023/index.md': 'index.md'
-        '2023/reglamento.md': 'reglamento.md'
+        '2023/reglamento.md': 'index.md'
         # Políticas Legales
         'praza/terminos.md': 'praza/legal/terminos.md'
         'praza/privacidad.md': 'praza/legal/privacidad.md'
@@ -114,7 +114,9 @@ markdown_extensions:
 nav:
   - 2023:
     - index.md
-    - Reglamento: reglamento.md
+    - Reglamento:
+      - reglamento/index.md
+      - Historial de Cambios: reglamento/historial.md
   - Ediciones Anteriores:
     - ediciones.md
     - 2022:
