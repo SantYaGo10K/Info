@@ -79,9 +79,6 @@ plugins:
       redirect_maps:
         '2023/index.md': 'index.md'
         '2023/reglamento.md': 'index.md'
-        # Políticas Legales
-        'praza/terminos.md': 'praza/legal/terminos.md'
-        'praza/privacidad.md': 'praza/legal/privacidad.md'
 
 markdown_extensions:
   - codehilite
