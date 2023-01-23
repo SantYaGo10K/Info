@@ -11,7 +11,6 @@ dev_addr: '127.0.0.1:8008'
 # Repository
 repo_name: Código Fuente
 repo_url: https://github.com/SantYaGo10K/Info
-edit_uri: blob/master/info/
 
 # Copyright text in the footer
 copyright: Diego Barreiro &copy; 2019 - 2023
@@ -38,6 +37,7 @@ theme:
   name: 'material'
   language: es
   features:
+    - content.action.view
     - content.tabs.link
     - navigation.indexes
     - navigation.tabs
