@@ -6,7 +6,7 @@
 
 ## Reglamento
 
-[Ir al Reglamento](./reglamento.md){ .md-button .md-button--primary }
+[Ir al Reglamento](./reglamento/index.md){ .md-button .md-button--primary }
 
 ## Preguntas Frecuentes
 
