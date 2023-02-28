@@ -45,6 +45,9 @@ A inscrición realizarase a través de calquera dos seguintes medios autorizados
     * O pagamento realizarase por transferencia bancaria, a través de Verse ou de maneira presencial en efectivo.
 * De maneira presencial, no Multiusos Fontes do Sar ou no Complexo Deportivo Santa Isabel.
     * O pagamento realizarase de maneira presencial en efectivo.
+* De maneira presencial, no Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+  Santiago de Compostela).
+    * O pagamento realizarase de maneira presencial por medio de tarxeta de débito/crédito ou en efectivo.
 
 Os prezos de inscrición, en función da data, serán os seguintes **ata completar @s 1500 participantes:**
 
@@ -86,7 +89,15 @@ non se procederá a reintegro da inscrición.
 
 ## Entrega de dorsais e chips
 
-Queda pendente de confirmación o lugar e horarios de entrega de dorsais.
+As datas previstas para a recollida serán:
+
+* **Venres 28 de Abril**
+    * 10:00 a 22:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+      Santiago de Compostela).
+* **Sábado 29 de Abril** (día da carreira)
+    * 10:00 a 14:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+      Santiago de Compostela).
+    * 16:00 a 21:00: Praza do Obradoiro.
 
 ## Uso de dorsais e chips
 
