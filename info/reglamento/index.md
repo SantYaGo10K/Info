@@ -2,8 +2,6 @@
 
 <link rel="stylesheet" href="/assets/styles/numbering.css" />
 
-!!! info "Sólo en Gallego"
-
 ## Data e hora
 
 O **Club Atletismo Fontes do Sar** e o **Departamento Municipal de Deportes do Concello de Santiago** coorganizan, co
