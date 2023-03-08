@@ -2,7 +2,7 @@
 
 !!! info
 
-    Esta página es una aclaración sobre el [Artículo 18. Premios del **Reglamento**](./index.md#premios).
+    Esta página es una aclaración sobre el [_Artículo 18. Premios_ del **Reglamento**](./index.md#premios).
 
 La premiación de la VII SantYaGo10K 2023 vendrá definida por dos tipos de premios:
 
@@ -61,8 +61,8 @@ En total, se reparten 3 x 5 x 2 = 30 trofeos entre los primeros clasificados de 
 
     Para poder optar a la premiación por equipos, es **estrictamente necesario** que a la hora de realizar la
     **inscripción de manera individual se haya indicado el nombre del equipo** y además algún miembro del equipo
-    **remita una lista con todos los participantes del equipo a la dirección
-    [info@santyago10k.run](mailto:info@santyago10k.run)**. De no cumplirse algún requisito, la participación por equipo
+    **remita una lista con todos los participantes del equipo** a la dirección
+    [info@santyago10k.run](mailto:info@santyago10k.run). De no cumplirse algún requisito, la participación por equipo
     no será computada.
 
 ### Premiación con Trofeo
