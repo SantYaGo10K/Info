@@ -20,3 +20,15 @@
 
     Puedes consultar la página específica de [Premiación](./reglamento/premiacion.md) donde explicamos claramente todos
     los premios que se repartirán.
+
+!!! question "¿Dónde puedo recoger mi dorsal?"
+
+    Los dorsales se podrán recoger en las siguientes ubicaciones:
+
+    * **Viernes, 28 de Abril**
+        * 10:00 a 22:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+          Santiago de Compostela).
+    * **Sábado, 29 de Abril** (_día de la carrera_)
+        * 10:00 a 14:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+          Santiago de Compostela).
+        * 16:00 a 21:00: Praza do Obradoiro.
