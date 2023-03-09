@@ -21,8 +21,8 @@ de Atletismo**.
 
 ## Técnico
 
-El responsable técnico es la persona encargada de **mantener las páginas webs de la carrera**, la **plataforma
-[Praza SantYaGo10K](https://praza.santyago10k.run)** y **gestionar las inscripciones**.
+El responsable técnico es la persona encargada de **mantener las páginas webs de la carrera** y **gestionar las
+inscripciones**, entre otras tareas.
 
 !!! abstract "Diego Barreiro"
 
