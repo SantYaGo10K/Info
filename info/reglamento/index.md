@@ -204,7 +204,8 @@ Repartiranse os seguintes premios en metálico:
     * 3ª posición absoluta: 100 €
     * 4ª posición absoluta: 75 €
 
-Tamén **obterán trofeo os tres primeiros clasificados masculino e feminino de cada categoría**.
+Tamén **obterán trofeo os tres primeiros clasificados masculino e feminino de cada categoría e da clasificación
+absoluta**.
 
 Os dorsais reservados para os peregrinos e para a organización non optarán a ningún premio, xa que estes dorsais serán
 inscritos no mesmo día da proba. Entrarán no cronometraxe da proba pero non no cómputo para os premios.

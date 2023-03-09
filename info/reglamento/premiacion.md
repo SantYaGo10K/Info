@@ -36,13 +36,15 @@ clasificación masculina como en la clasificación femenina. Las cuantías vendr
 
 ### Premiación con Trofeo
 
-Se entregará un trofeo conmemorativo a los **3 primeros clasificados en cada categoría**, tanto en las clasificaciones
-masculinas como en las clasificaciones femeninas.
+Se entregará un trofeo conmemorativo a los **3 primeros clasificados en cada categoría y en la clasificación absoluta**,
+tanto en las clasificaciones masculinas como en las clasificaciones femeninas.
 
 !!! question "Clasificación Absoluta"
 
-    Las **clasificaciones absolutas no reciben trofeo**; los agraciados recibirán la correspondiente premiación en
-    metálico y, si procede, el **trofeo correspondiente a su categoría**.
+    Las **clasificaciones absolutas reciben trofeo**; es decir, los 3 primeros clasificados recibirán la correspondiente
+    premiación en metálico y el trofeo de la clasificación absoluta. Además, si procede, también recibirán el **trofeo
+    correspondiente a su categoría**. El 4º clasificado en la clasificación absoluta sólo recibe la premiación monetaria
+    (no recibe trofeo por clasificación absoluta), pero _es posible que reciba trofeo por su correspondiente categoría_.
 
 Tal como está definido [en el reglamento](./index.md), se disponen las siguientes 5 categorías, cada una con su
 correspondiente clasificación masculina y femenina:
@@ -53,7 +55,8 @@ correspondiente clasificación masculina y femenina:
 * Categoría Máster B
 * Categoría Máster C
 
-En total, se reparten 3 x 5 x 2 = 30 trofeos entre los primeros clasificados de cada categoría.
+En total, se reparten 3 x (5 + 1) x 2 = **36 trofeos** entre los primeros clasificados de cada categoría y la
+clasificación absoluta.
 
 ## Premiación por Equipos
 
