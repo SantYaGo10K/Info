@@ -117,6 +117,10 @@ nav:
       - reglamento/index.md
       - Historial de Cambios: reglamento/historial.md
       - Premiación: reglamento/premiacion.md
+    - Ciudadanía:
+      - ciudadania/index.md
+      - Cortes de Tráfico: ciudadania/trafico.md
+      - Transporte Público: ciudadania/transporte.md
   - Ediciones Anteriores:
     - ediciones.md
     - 2022:
