@@ -134,3 +134,8 @@ nav:
   - Ayuda:
     - ayuda/index.md
     - Responsables: ayuda/responsables.md
+    - Políticas Legales:
+      - legal/index.md
+      - Aviso Legal: legal/aviso-legal.md
+      - Política de Privacidad: legal/politica-privacidad.md
+      - Política de Cookies: legal/politica-cookies.md
