@@ -10,17 +10,6 @@
 
 ## Preguntas Frecuentes
 
-!!! question "No he recibido ningún código descuento por haber corrido la edición anterior."
-
-    Debido a la normativa de comunicaciones comerciales, es posible que no nos hayas autorizado en la anterior edición
-    para enviarte comunicaciones promocionales. _Hemos explicado muy detalladamente el por qué de este motivo en
-    [esta entrada del foro Correr en Galicia](https://www.correrengalicia.org/index.php?name=Forums&file=viewtopic&t=22988#614115)._
-
-!!! question "Tengo dudas sobre la premiación."
-
-    Puedes consultar la página específica de [Premiación](./reglamento/premiacion.md) donde explicamos claramente todos
-    los premios que se repartirán.
-
 !!! question "¿Dónde puedo recoger mi dorsal?"
 
     Los dorsales se podrán recoger en las siguientes ubicaciones:
@@ -32,3 +21,14 @@
         * 10:00 a 14:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
           Santiago de Compostela).
         * 16:00 a 21:00: Praza do Obradoiro.
+
+!!! question "No he recibido ningún código descuento por haber corrido la edición anterior."
+
+    Debido a la normativa de comunicaciones comerciales, es posible que no nos hayas autorizado en la anterior edición
+    para enviarte comunicaciones promocionales. _Hemos explicado muy detalladamente el por qué de este motivo en
+    [esta entrada del foro Correr en Galicia](https://www.correrengalicia.org/index.php?name=Forums&file=viewtopic&t=22988#614115)._
+
+!!! question "Tengo dudas sobre la premiación."
+
+    Puedes consultar la página específica de [Premiación](./reglamento/premiacion.md) donde explicamos claramente todos
+    los premios que se repartirán.
