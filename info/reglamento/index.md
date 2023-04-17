@@ -52,7 +52,7 @@ Os prezos de inscrición, en función da data, serán os seguintes **ata complet
 * Do 01 de marzo ás 00:00 ata o 02 de abril ás 23:59 horas: **10 euros**.
 * Do 3 de abril ás 00:00 ata o 23 de abril ás 23:59: **13 euros**.
 * Do 24 de abril as 00:00 ata o 26 de abril as 23:59: **20 euros**.
-* Só dispoñible de maneira on-line a través da páxina web oficial do evento
+    * Só dispoñible de maneira on-line a través da páxina web oficial do evento
 
 Non se aceptarán inscricións de ningún tipo fóra dos modos e prazos aquí indicados.
 

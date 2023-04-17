@@ -2,6 +2,9 @@
 
 !!! info "Sólo en Gallego"
 
+* **Luns, 17 de Abril do 2023**
+  * Correxida unha tabulación para aclarar o último prazo de inscrición.
+
 * **Xoves, 9 de Marzo do 2023**
     * Engadida aclaración sobre os trofeos nas clasificacións absolutas. 
 
