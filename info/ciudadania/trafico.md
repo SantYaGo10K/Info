@@ -13,6 +13,8 @@ en esta página encontrarás la información relativa a los **cortes y desvíos 
 En esta página contiene tanto un [Mapa Interactivo](#mapa-interactivo) como un
 [listado de las calles](#desvios-de-tráfico) que se verán afectadas (y qué alternativas tiene para circular).
 
+* **Corte de Tráfico**: Sábado, 29 de Abril del 2023 **de 21:30 a 23:30**.
+
 !!! question "Necesito ayuda"
 
     Si no encuentras tu calle o tienes cualquier otra duda, puedes **contactar con nosotros escribiendo a
