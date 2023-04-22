@@ -20,6 +20,11 @@ En esta página contiene tanto un [Mapa Interactivo](#mapa-interactivo) como un
 
 ## Mapa Interactivo
 
+* **Leyenda**
+    * Azul: recorrido de la carrera.
+    * Rojo: calle totalmente bloqueada (no podrá mover su vehículo durante el corte de tráfico).
+    * Amarillo: podrá desplazar su vehículo, pero su circulación se verá afectada en algún punto (leer indicaciones).
+
 _Si no visualiza bien este mapa, puede
 [abrirlo en Google Maps haciendo clic en este enlace](https://www.google.com/maps/d/u/0/viewer?mid=1WBxiAONkM7468RsE0kNdyat8kuC-qlI)._
 
