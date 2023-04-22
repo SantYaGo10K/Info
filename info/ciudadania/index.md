@@ -8,11 +8,6 @@ Con el fin de minimizar este impacto, desde la organización de la SantYaGo10K h
 y **aclaramos todas las posibles dudas que puedan surgir al respecto**, así como **desvíos alternativos** y otras formas
 de **llegar con transporte público**.
 
-!!! example "En Construcción"
-
-    Dado que la prueba tiene lugar el 29 de Abril, todavía no está confirmada toda la información de esta página, por
-    lo que es susceptible a cambios.
-
 [Recorrido](https://2023.santyago10k.run/es/durante/recorrido){ .md-button .md-button--primary }
 
 ## Horas Importantes
