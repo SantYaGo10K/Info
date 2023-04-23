@@ -80,6 +80,10 @@ qué alternativas para circular hay.
     * _Tramo 2_ y _Tramo 3_
         * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
         * Para los garajes, si desean salir, deberán aguardar las indicaciones de Policía Local y/o Protección Civil.
+    * _Tramo 4_
+        * No podrá acceder a esta calle.
+        * Sólo podrá desplazarse hasta Praza de Galicia o la intersección de Rúa do Doutor Teixeiro con República do
+          Salvador, pero no avanzar de estos dos puntos (deberá esperar a que se abra el tráfico).
 * **Rúa do Xeneral Pardiñas**
     * _Tramo 1_
         * No podrá acceder a esta calle.
