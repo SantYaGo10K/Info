@@ -58,6 +58,41 @@ qué alternativas para circular hay.
 
 ### Vista Alegre
 
+* **Costa de San Francisco**
+    * No se permite el tráfico ascendente hacia Rúa de San Francisco.
+    * Podrá salir hacia Rúa de Entrerríos, pero deberá seguir las indicaciones de Policía Local.
+* **Rúa de San Francisco**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Avenida de Xoan XXIII (zona baja)**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa dos Castaños**
+    * Podrá acceder a esta calle si ya se encuentra dentro durante el corte.
+    * Para salir por Rúa de San Francisco deberá aguardar las indicaciones de Policía Local y/o Protección Civil.
+* **Rúa da Costa Vella**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa da Costa Nova**
+    * Calle cerrada al tráfico.
+    * Los vehículos estacionados deberán salir en dirección contraria a Rúa dos Xasmíns.
+    * Se permitirá acceder solo a los residentes de esta calle (sin acceder a Avenida de Xoan XXIII).
+* **Avenida do Burgo das Nacións**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa de Ricardo Carvalho Calero**
+    * No podrá salir hacia Avenida do Burgo das Nacións. Deberá salir por Rúa de Vista Alegre.
+    * No podrá acceder si no está en la calle previo al corte de tráfico.
+* **Rúa de Alexandre Bóveda**
+    * No podrá acceder a este tramo de la calle.
+    * Podrá salir hacia Avenida de Castelao por la zona este sin acceder a Avenida do Burgo das Nacións.
+* **Avenida de Xoan XXIII (después de Burgo das Nacións)**
+    * Se permitirá el tráfico pero desviado por Avenida de Coimbra o Rúa dos Xasmíns (no podrá continuar recto en
+      dirección San Francisco).
+* **Avenida de Coimbra**
+    * Se desviará el tráfico por la subida de Avenida de Xoan XXIII (no es posible seguir hacia Rúa de San Francisco o
+      Avenida do Burgo das Nacións).
+    * La salida hacia Rúa de San Roque o Rúa de Santa Clara no está afectada.
+* **Rúa dos Xasmíns**
+    * El tráfico no está afectado. Sólo se permite acceder desde Avenida de Xoan XXIII (la bajada desde Praza de Ultreia
+      o Praza da Paz), no desde Avenida do Burgo das Nacións.
+
 ### Pombal, Galeras
 
 * **Campillo de San Clemente**
