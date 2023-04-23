@@ -22,7 +22,10 @@ En esta página contiene tanto un [Mapa Interactivo](#mapa-interactivo) como un
 
 ## Mapa Interactivo
 
-Puedes clicar en las calles señalizadas para leer las indicaciones y alternativas correspondientes.
+Puedes **hacer clic en las calles** marcadas para **leer más detalles** sobre las indicaciones y alternativas de esa
+calle en particular.  
+El mapa tiene el recorrido y 5 capas (representando zonas de la ciudad); abriendo el menú lateral en el propio mapa
+puedes ocultar las que no te interesen.
 
 * **Leyenda**
     * Azul: _recorrido de la carrera._
@@ -142,6 +145,6 @@ qué alternativas para circular hay.
     * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
 * **Rúa dos Pitelos**
     * No podrá acceder a esta calle.
-    * Sólo podrá salir hacia Rúa de Patio de Madres. 
+    * Sólo podrá salir hacia Rúa de Patio de Madres.
 
 ### Zona Monumental
