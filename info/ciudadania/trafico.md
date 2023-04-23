@@ -33,7 +33,7 @@ puedes ocultar las que no te interesen.
     * Naranja: _podrá desplazar su vehículo, pero su circulación se verá afectada en algún punto (leer indicaciones)_.
     * Amarillo: _podrá entrar o salir con su vehículo, pero no ambas (leer indicaciones)_.
 
-_Si no das visualizado bien este mapa, puedes
+_Para visualizar correctamente el mapa, haz zoom en la zona que te interesa. Si tienes problemas, puedes
 [abrirlo en Google Maps haciendo clic en este enlace](https://www.google.com/maps/d/u/0/viewer?mid=1WBxiAONkM7468RsE0kNdyat8kuC-qlI)._
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WBxiAONkM7468RsE0kNdyat8kuC-qlI&ehbc=2E312F" width="100%" height="480"></iframe>
