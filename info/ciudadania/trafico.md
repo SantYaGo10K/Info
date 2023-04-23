@@ -140,5 +140,8 @@ qué alternativas para circular hay.
     * Sólo podrá salir hacia Rúa de López Ferreiro.
 * **Rúa de Santiago Guayaquil**
     * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa dos Pitelos**
+    * No podrá acceder a esta calle.
+    * Sólo podrá salir hacia Rúa de Patio de Madres. 
 
 ### Zona Monumental
