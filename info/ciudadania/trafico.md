@@ -94,6 +94,53 @@ qué alternativas para circular hay.
 
 ### Vista Alegre
 
+* **Rúa de Vista Alegre**
+    * _Tramo 1_
+        * No podrá salir hacia Rúa das Salvadas; deberá aguardar las indicaciones de Policía Local.
+        * Podrá acceder a esta calle desde Rúa dos Pelamios en caso de ya estar dentro durante el corte de tráfico.
+    * _Resto de Tramos_
+        * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Avenida de Castelao**
+    * _Tramo 1_
+        * No podrá acceder a este tramo desde Praza da Paz, sólo se permite acceder desde Rúa de Ulpiano Villanueva.
+    * _Tramo 2_
+        * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa do Avío**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Camiño de Lermo**
+    * No se permite la salida a Rúa de Vista Alegre. Deberá bordear todo y salir por Rúa de Campo de Santa Isabel.
+* **Rúa do Parque de San Xoan**
+    * Calle cortada al tráfico en la salida a Avenida de Castelao.
+    * No se permite salir hacia Avenida de Castelao. Deberá ir por Rúa de Santa Comba y salir a Rúa de Gumersindo Busto
+      Villanueva.
+* **Rúa de Noia**
+    * No se permite la entrada a esta calle.
+    * Los vehículos estacionados deberán salir hacia Rúa de Gumersindo Busto Villanueva.
+* **Rúa de Santa Comba**
+    * No se permite la salida hacia Rúa de Vista Alegre. Deberá salir hacia Rúa de Gumersindo Busto Villanueva.
+* **Rúa de Boiro**
+    * No se permite la salida hacia Rúa de Vista Alegre. Deberá salir hacia Rúa de Gumersindo Busto Villanueva.
+* **Travesa de Vista Alegre**
+    * No se permite la salida hacia Rúa do Avío ni Rúa de Vista Alegre.
+    * Deberá salir hacia la Rotonda do Avío.
+* **Rúa do Bispo Diego Peláez**
+    * Calle cortada al tráfico en la salida a Avenida de Castelao.
+    * Deberá salir hacia Rúa de Gumersindo Busto Villanueva o Rúa de Ulpiano Villanueva.
+* **Rúa de San Xoan**
+    * No se permite la salida a Rúa de Vista Alegre.
+    * Deberá salir hacia Rúa do Parque de San Xoan y posteriormente hacia Rúa de Gumersindo Busto Villanueva.
+* **Rúa de Santa Uxía de Ribeira**
+    * No podrá salir en dirección Rúa de Vista Alegre. Debería dirigirse en dirección Rúa de Gumersindo Busto
+      Villanueva.
+* **Rúa de Rianxo**
+    * No podrá salir en dirección Rúa de Vista Alegre. Deberá dirigirse en dirección Rúa de Gumersindo Busto Villanueva.
+* **Rúa de Roberto Vidal Bolaño**
+    * No podrá dirigirse hacia Rúa do Avío por Rúa de Boiro. Deberá dirigirse hacia Rúa de Gumersindo Busto Villanueva.
+* **Rúa de Ulpiano Villanueva**
+    * No podrá acceder desde Avenida de Castelao, solo desde Rotonda do Avío.
+      Deberá continuar hacia Avenida de Castelao dirección Praza da Paz (dirección Rúa de Vista Alegre y dirección
+      Avenida do Burgo das Nacións están cortados).
+
 ### Pombal, Galeras
 
 * **Campillo de San Clemente**
