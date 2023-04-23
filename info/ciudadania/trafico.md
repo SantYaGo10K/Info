@@ -22,13 +22,15 @@ En esta página contiene tanto un [Mapa Interactivo](#mapa-interactivo) como un
 
 ## Mapa Interactivo
 
+Puedes clicar en las calles señalizadas para leer las indicaciones y alternativas correspondientes.
+
 * **Leyenda**
     * Azul: _recorrido de la carrera._
     * Rojo: _calle totalmente bloqueada (no podrá mover su vehículo durante el corte de tráfico)_.
     * Naranja: _podrá desplazar su vehículo, pero su circulación se verá afectada en algún punto (leer indicaciones)_.
     * Amarillo: _podrá entrar o salir con su vehículo, pero no ambas (leer indicaciones)_.
 
-_Si no visualiza bien este mapa, puede
+_Si no das visualizado bien este mapa, puedes
 [abrirlo en Google Maps haciendo clic en este enlace](https://www.google.com/maps/d/u/0/viewer?mid=1WBxiAONkM7468RsE0kNdyat8kuC-qlI)._
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WBxiAONkM7468RsE0kNdyat8kuC-qlI&ehbc=2E312F" width="100%" height="480"></iframe>
