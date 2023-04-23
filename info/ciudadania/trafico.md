@@ -56,8 +56,6 @@ qué alternativas para circular hay.
 
 ### San Francisco, Xoan XXIII, Burgo das Nacións
 
-### Vista Alegre
-
 * **Costa de San Francisco**
     * No se permite el tráfico ascendente hacia Rúa de San Francisco.
     * Podrá salir hacia Rúa de Entrerríos, pero deberá seguir las indicaciones de Policía Local.
@@ -93,6 +91,8 @@ qué alternativas para circular hay.
 * **Rúa dos Xasmíns**
     * El tráfico no está afectado. Sólo se permite acceder desde Avenida de Xoan XXIII (la bajada desde Praza de Ultreia
       o Praza da Paz), no desde Avenida do Burgo das Nacións.
+
+### Vista Alegre
 
 ### Pombal, Galeras
 
