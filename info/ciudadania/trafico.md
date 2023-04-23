@@ -148,3 +148,39 @@ qué alternativas para circular hay.
     * Sólo podrá salir hacia Rúa de Patio de Madres.
 
 ### Zona Monumental
+
+> En la Zona Monumental no se listan las calles que ya están restringidas al tráfico rodado (el casco antiguo, cuyo
+> acceso solo está permitido a residentes). En esta subzona deberá consultar el recorrido de la carrera, ya que las
+> calles cerradas coinciden estrictamente con el recorrido.
+
+* **Rúa de Concepción Arenal**
+    * No podrá acceder a esta calle.
+    * Sólo podrá salir hacia Rúa de García Blanco y Rúa de Patio de Madres.
+* **Rúa da Fonte de Santo Antonio**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Tránsito da Mercé**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa da Ensinanza**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa da Virxe da Cerca**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa de Patio de Madres**
+    * No podrá acceder a esta calle.
+    * Solo podrá salir en dirección Sar.
+* **Rúa do Pexigo de Arriba**
+    * No podrá acceder a esta calle.
+    * Solo podrá salir por Rúa do Pisón hacia Rúa de Patio de Madres.
+* **Rúa das Trompas**
+    * No podrá acceder a esta calle.
+    * Solo podrá salir por Rúa do Parque de Belvís.
+* **Rúa do Pexigo de Abaixo**
+    * No podrá salir a Rúa da Ensinanza (sólo podrá circular en dirección Rúa Entrepexigos).
+* **Rúa da Tafona**
+    * No podrá salir de esta calle (Rúa da Virxe da Cerca estará totalmente cortada al tráfico).
+* **Rúa dos Mazarelos**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa das Rodas**
+    * No se permite tráfico ascendente (Rúa da Virxe da Cerca está cortado).
+    * Sólo se permite tráfico descendente (desde San Roque hacia Rúa da Virxe da Cerca). Al llegar a la altura de Rúa da
+      Algalia de Abaixo, el tráfico se desplazará al carril opuesto para circular hasta Porta do Camiño. En Porta do
+      Camiño tendrá la opción de desviarse a Costa de San Domingos o Rúa de San Pedro.
