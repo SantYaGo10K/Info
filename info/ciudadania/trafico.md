@@ -64,7 +64,11 @@ qué alternativas para circular hay.
 * **Rúa de San Francisco**
     * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
 * **Avenida de Xoan XXIII (zona baja)**
-    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+    * _Zona Baja_
+        * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+    * _Después de Burgo das Nacións_
+        * Se permitirá el tráfico pero desviado por Avenida de Coimbra o Rúa dos Xasmíns (no podrá continuar recto en
+          dirección San Francisco).
 * **Rúa dos Castaños**
     * Podrá acceder a esta calle si ya se encuentra dentro durante el corte.
     * Para salir por Rúa de San Francisco deberá aguardar las indicaciones de Policía Local y/o Protección Civil.
@@ -82,9 +86,6 @@ qué alternativas para circular hay.
 * **Rúa de Alexandre Bóveda**
     * No podrá acceder a este tramo de la calle.
     * Podrá salir hacia Avenida de Castelao por la zona este sin acceder a Avenida do Burgo das Nacións.
-* **Avenida de Xoan XXIII (después de Burgo das Nacións)**
-    * Se permitirá el tráfico pero desviado por Avenida de Coimbra o Rúa dos Xasmíns (no podrá continuar recto en
-      dirección San Francisco).
 * **Avenida de Coimbra**
     * Se desviará el tráfico por la subida de Avenida de Xoan XXIII (no es posible seguir hacia Rúa de San Francisco o
       Avenida do Burgo das Nacións).
@@ -100,9 +101,12 @@ qué alternativas para circular hay.
     * Podrá salir bajando Rúa de San Clemente y posteriormente Rúa da Trinidade y Rúa do Campo das Hortas, pero deberá
       esperar las indicaciones de Policía Local.
 * **Rúa de San Clemente (adoquinado)**
-    * No podrá acceder a esta calle.
-    * Para salir, deberá ir por Rúa da Trinidade y posteriormente Rúa do Campo das Hortas, donde aguardará las
-      indicaciones de Policía Local.
+    * _Adoquinado_
+        * No podrá acceder a esta calle.
+        * Para salir, deberá ir por Rúa da Trinidade y posteriormente Rúa do Campo das Hortas, donde aguardará las
+          indicaciones de Policía Local.
+    * _Asfaltado_
+        * Calle totalmente cerrada al tráfico.
 * **Avenida de Rodrigo de Padrón**
     * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
 * **Rúa da Trinidade**
@@ -117,8 +121,6 @@ qué alternativas para circular hay.
 * **Rúa do Campo do Cruceiro do Galo**
     * No se permitirá acceder a Rúa do Pombal. Se deberá continuar por Rúa da Poza de Bar o por Travesía do Carme de
       Abaixo.
-* **Rúa de San Clemente (asfaltado)**
-    * Calle totalmente cerrada al tráfico.
 * **Avenida de Figueroa**
     * Calle totalmente cerrada al tráfico.
 * **Rúa do Pombal**
