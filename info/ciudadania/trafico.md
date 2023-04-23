@@ -60,6 +60,76 @@ qué alternativas para circular hay.
 
 ### Pombal, Galeras
 
+* **Campillo de San Clemente**
+    * No tendrá opción a entrar durante el corte de tráfico.
+    * Podrá salir bajando Rúa de San Clemente y posteriormente Rúa da Trinidade y Rúa do Campo das Hortas, pero deberá
+      esperar las indicaciones de Policía Local.
+* **Rúa de San Clemente (adoquinado)**
+    * No podrá acceder a esta calle.
+    * Para salir, deberá ir por Rúa da Trinidade y posteriormente Rúa do Campo das Hortas, donde aguardará las
+      indicaciones de Policía Local.
+* **Avenida de Rodrigo de Padrón**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa da Trinidade**
+    * No podrá acceder a esta calle.
+    * Deberá dirigirse a Rúa do Campo das Hortas para salir, donde aguardará las indicaciones de Policía Local.
+* **Rúa das Carretas**
+    * No podrá acceder a esta calle.
+    * Deberá dirigirse a Rúa do Campo das Hortas para salir, donde aguardará las indicaciones de Policía Local.
+* **Rúa do Campo das Hortas**
+    * No podrá acceder a esta calle a no ser que ya se encuentre dentro durante el corte.
+    * Si desea salir, deberá aguardar las indicaciones de Policía Local para salir hacia Rúa da Poza de Bar.
+* **Rúa do Campo do Cruceiro do Galo**
+    * No se permitirá acceder a Rúa do Pombal. Se deberá continuar por Rúa da Poza de Bar o por Travesía do Carme de
+      Abaixo.
+* **Rúa de San Clemente (asfaltado)**
+    * Calle totalmente cerrada al tráfico.
+* **Avenida de Figueroa**
+    * Calle totalmente cerrada al tráfico.
+* **Rúa do Pombal**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa das Galeras**
+    * No podrá salir si su vehículo se encuentra en los garajes o estacionado en dirección Vista Alegre. Deberá aguardar
+      las indicaciones de Policía Local y/o Protección Civil.
+    * No se permite el tráfico en dirección Vista Alegre.
+    * Se permitirá el tráfico desde Rúa do Campo de Santa Isabel hacia Rúa da Poza de Bar, con giro obligatorio hacia
+      Rúa da Poza de Bar.
+* **Rúa de Domingo García Sabell**
+    * No podrá acceder a esta calle.
+    * Para salir, deberá dirigirse a Rúa de Entrerríos y aguardar las indicaciones de Policía Local.
+* **Rúa de Entrerríos**
+    * No podrá salir de esta calle. Deberá aguardar las indicaciones de Policía Local.
+* **Rúa do Morón**
+    * _Tramo 1_
+        * No podrá salir de la calle hacia Rúa das Salvadas, deberá ir por Rúa dos Pelamios (y aguardar indicaciones de
+          Policía Local).
+        * No podrá entrar a la calle durante el corte de tráfico.
+    * _Tramo 2_
+        * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Rúa dos Pelamios**
+    * Podrá circular por esta calle, pero no podrá entrar a ella si no lo está previamente antes del corte de tráfico.
+    * Para salir de la misma, deberá hacerlo por Rúa de Vista Alegre o Rúa dos Castaños (y aguardar indicaciones de
+      Policía Local).
+* **Rúa das Salvadas**
+    * Calle totalmente cerrada al tráfico. No hay opción de salir ni de entrar.
+* **Ruela das Salvadas**
+    * No podrá ni entrar ni salir de esta calle durante el corte de tráfico. Deberá aguardar las insrucciones de Policía
+      Local y/o Protección Civil.
+    * Podrá desplazarse a Tras Santa Isabel, pero no salir.
+* **Tras Santa Isabel**
+    * No podrá ni entrar ni salir de esta calle durante el corte de tráfico. Deberá aguardar las insrucciones de Policía
+      Local y/o Protección Civil.
+    * Podrá desplazarse a Ruela das Salvadas, pero no salir.
+* **Rúa do Campo de Santa Isabel**
+    * No podrá acceder a esta calle.
+    * Podrá salir pero sólo por Rúa das Galeras para ser desviado hacia Rúa da Poza de Bar.
+* **Rúa do Presidente Salvador Allende**
+    * Solo podrá acceder a esta calle desde Rúa das Galeras entrando por Rúa do Campo de Santa Isabel.
+    * Podrá salir por Rúa de Entregaleras.
+* **Rúa de Entregaleras**
+    * Deberá salir obligatoriamente por Rúa das Galeras en dirección Rúa da Poza de Bar.
+    * La entrada a esta calle no está afectada.
+
 ### Ensanche
 
 * **Avenida de Xoan Carlos I**
