@@ -291,3 +291,9 @@ qué alternativas para circular hay.
     * Sólo se permite tráfico descendente (desde San Roque hacia Rúa da Virxe da Cerca). Al llegar a la altura de Rúa da
       Algalia de Abaixo, el tráfico se desplazará al carril opuesto para circular hasta Porta do Camiño. En Porta do
       Camiño tendrá la opción de desviarse a Costa de San Domingos o Rúa de San Pedro.
+
+## Aviso Legal
+
+La información recogida en esta página tiene **caracter meramente informativo** y no es vinculante. Durante los cortes
+de tráfico deberá consultar con el personal de Policía Local y Protección Civil las indicaciones exactas sobre como
+deberá proceder.
