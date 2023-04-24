@@ -117,7 +117,10 @@ qué alternativas para circular hay.
     * No se permite la salida hacia Rúa de Vista Alegre. Deberá salir hacia Rúa de Gumersindo Busto Villanueva.
 * **Travesa de Vista Alegre**
     * No se permite la salida hacia Rúa do Avío ni Rúa de Vista Alegre.
-    * Deberá salir hacia la Rotonda do Avío.
+    * Deberá salir hacia la Rotonda do Avío por Rúa do Campo das Hortas.
+* **Rúa do Campo das Hortas**
+    * No se permite la entrada desde Rotonda do Avío.
+    * Deberá salir obligatoriamente hacia Rotonda do Avío.
 * **Rúa do Bispo Diego Peláez**
     * Calle cortada al tráfico en la salida a Avenida de Castelao.
     * Deberá salir hacia Rúa de Gumersindo Busto Villanueva o Rúa de Ulpiano Villanueva.
