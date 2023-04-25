@@ -31,6 +31,9 @@ extra:
       link: https://twitter.com/santyago10k
       name: Síguenos en Twitter!
   generator: false
+  analytics:
+    provider: google
+    property: G-YM0Y156YDS
 
 # Material theme for MkDocs : https://github.com/squidfunk/mkdocs-material/
 theme:
