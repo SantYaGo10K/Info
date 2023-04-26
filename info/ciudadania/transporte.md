@@ -1,14 +1,5 @@
 # Transporte Público
 
-!!! bug "En Construcción"
-
-    Dado que la prueba tiene lugar el 29 de Abril, todavía no está confirmada toda la información de esta página, por
-    lo que es **susceptible a cambios**. Lo publicado ahora mismo está basado en la información de la V Edición, el
-    Sábado, 4 de Mayo del 2019.
-
-    En cuanto este aviso desaparezca, la información reflejada en esta página será definitiva y aplicable a la VII
-    Edición el Sábado, 29 de Abril del 2019.
-
 La VII Carrera Nocturna SantYaGo10K discurre por varias de las principales vías de Santiago de Compostela. Debido a los
 cortes de tráfico requeridos para la realización de la prueba deportiva, **varías líneas de transporte público se verán
 afectadas**, desviando su recorrido o viéndose interrumpidas temporalmente. En esta página podrás encontrar información
@@ -19,7 +10,7 @@ sobre las **líneas afectadas y posibles alternativas**.
 [Recorrido](https://2023.santyago10k.run/es/durante/recorrido){ .md-button }
 
 Los desvíos serán efectivos durante el corte de tráfico, el cual **está previsto que afecte al transporte urbano entre
-las 21:30 y las 23:00**. Si las restricciones de tráfico acabasen antes de las 23:00, se retomará el servicio habitual
+las 21:30 y las 23:30**. Si las restricciones de tráfico acabasen antes de las 23:30, se retomará el servicio habitual
 antes de esa hora.
 
 Todas las paradas de transporte urbano situadas en los itinerarios de desvío serán **paradas alternativas a demanda**
@@ -29,7 +20,13 @@ de los usuarios.
 > **Teléfono de información**: [981 58 18 15](tel:+34981581815) / [901 12 00 54](tel:+34901120054)
 
 Fuente:
-_[tussa.org, Desvíos no transporte urbano (sábado 4 de maio de 2019, de 21:30 a 23:00)](http://mail.tussa.org/web/actualidade/nova.php?id=633&lg=gal)_
+_[tussa.org, Desvíos no transporte urbano (sábado 29/4/2023, de 21:30 a 23:30)](https://tussa.org/web/actualidade/nova.php?id=828&lg=gal)_
+
+## En PDF
+
+<object data="/assets/tussa.pdf" type="application/pdf">
+  <a href="/assets/tussa.pdf">Haz clic aquí para ver los desvíos en PDF</a>
+</object>
 
 ## Línea 1
 
