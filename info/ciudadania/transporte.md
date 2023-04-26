@@ -24,7 +24,7 @@ _[tussa.org, Desvíos no transporte urbano (sábado 29/4/2023, de 21:30 a 23:30)
 
 ## En PDF
 
-<object data="/assets/tussa.pdf" type="application/pdf">
+<object data="/assets/tussa.pdf" type="application/pdf" width="100%" height="480">
   <a href="/assets/tussa.pdf">Haz clic aquí para ver los desvíos en PDF</a>
 </object>
 
