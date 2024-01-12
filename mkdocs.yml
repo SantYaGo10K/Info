@@ -13,14 +13,14 @@ repo_name: Código Fuente
 repo_url: https://github.com/SantYaGo10K/Info
 
 # Copyright text in the footer
-copyright: Diego Barreiro &copy; 2019 - 2023
+copyright: Diego Barreiro &copy; 2019 - 2024
 
 # Customization
 extra:
   social:
     - icon: fontawesome/solid/globe
-      link: https://2023.santyago10k.run
-      name: SantYaGo10K 2023
+      link: https://www.santyago10k.run
+      name: SantYaGo10K 2024
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/santyago10k
       name: Dános like en Instagram!
@@ -80,10 +80,10 @@ plugins:
       fallback_to_build_date: true
   - redirects:
       redirect_maps:
-        '2023/index.md': 'index.md'
-        '2023/reglamento.md': 'reglamento/index.md'
-        '2023/reglamento/historial.md': 'reglamento/historial.md'
-        '2023/reglamento/premiacion.md': 'reglamento/premiacion.md'
+        '2024/index.md': 'index.md'
+        '2024/reglamento.md': 'reglamento/index.md'
+        '2024/reglamento/historial.md': 'reglamento/historial.md'
+        '2024/reglamento/premiacion.md': 'reglamento/premiacion.md'
 
 markdown_extensions:
   - codehilite
@@ -114,7 +114,7 @@ markdown_extensions:
 
 # Site navigation in the sidebar
 nav:
-  - 2023:
+  - 2024:
     - index.md
     - Reglamento:
       - reglamento/index.md
@@ -126,6 +126,16 @@ nav:
       - Transporte Público: ciudadania/transporte.md
   - Ediciones Anteriores:
     - ediciones.md
+    - 2023:
+      - 2023/index.md
+      - Reglamento:
+          - 2023/reglamento/index.md
+          - Historial de Cambios: 2023/reglamento/historial.md
+          - Premiación: 2023/reglamento/premiacion.md
+      - Ciudadanía:
+          - 2023/ciudadania/index.md
+          - Cortes de Tráfico: 2023/ciudadania/trafico.md
+          - Transporte Público: 2023/ciudadania/transporte.md
     - 2022:
       - 2022/index.md
       - Reglamento: 2022/reglamento.md
