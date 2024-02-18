@@ -38,6 +38,8 @@ A inscrición realizarase a través de calquera dos seguintes medios autorizados
 * De maneira on-line, a través da páxina web oficial do
   evento ([https://2024.santyago10k.run/](https://2024.santyago10k.run/)).
     * O pagamento realizarse de maneira on-line por medio de tarxeta de débito/crédito na plataforma na mesma páxina.
+* De maneira presencial, no Multiusos Fontes do Sar ou no Complexo Deportivo Santa Isabel.
+  * O pagamento realizarase de maneira presencial en efectivo.
 
 Os prezos de inscrición, en función da data, serán os seguintes **ata completar @s 1500 participantes:**
 
@@ -48,6 +50,12 @@ Os prezos de inscrición, en función da data, serán os seguintes **ata complet
 
 Non se aceptarán inscricións de ningún tipo fóra dos modos e prazos aquí indicados. A organización resérvase o dereito
 de realizar posibles descontos na cota de inscrición tanto dentro como fóra dos prazos indicados.
+
+!!! tip "Desconto Multiusos"
+
+    O Multiusos Fontes do Sar e o Complexo Deportivo Santa Isabel, realizarán un desconto especial aos seus abonados,
+    de 2 euros, sobre o prezo no momento da inscrición. A organización poderá realizar outros descontos puntuais ou
+    temporais, así como permitir inscricións anticipadas restrinxidas.
 
 > Realizaranse varios sorteos ao longo do prazo de inscrición, aproximadamente cada 250 inscritos, de diversos obsequios
 > doados polas empresas colaboradoras.
