@@ -77,7 +77,7 @@ da organización do certificado médico oficial. Cómpre comunicalo previamente 
 electrónico ([info@santyago10k.run](mailto:info@santyago10k.run)) e serán dadas as indicacións sobre como proceder.
 
 O importe da devolución será determinado pola data de presentación do certificado médico. Será reembolsado o 75% da cota
-presentando o xustificante ata o domingo 16 de abril e o 50% presentándoo ata o domingo 23 de abril. A partir desta data
+presentando o xustificante ata o domingo 14 de abril e o 50% presentándoo ata o domingo 21 de abril. A partir desta data
 non se procederá a reintegro da inscrición.
 
 ## Entrega de dorsais e chips
@@ -85,7 +85,7 @@ non se procederá a reintegro da inscrición.
 As datas previstas para a recollida serán:
 
 * **Venres 26 de Abril**
-    * 10:00 a 22:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+    * 09:30 a 21:30: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
       Santiago de Compostela).
 * **Sábado 27 de Abril** (día da carreira)
     * 10:00 a 14:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
@@ -136,7 +136,7 @@ Os corredores estarán nos seus postos 10 minutos antes do disparo oficial da sa
 Establécense as seguintes categorías de competición, tendo en conta a idade cumprida no día da carreira.
 
 * **Clasificación xeral absoluta, masculina e feminina.**
-* Categoría Senior, masculina e feminina: atletas dende o día de cumpran 18 anos (deberán ter feitos os 18 anos antes
+* Categoría Sénior, masculina e feminina: atletas dende o día de cumpran 18 anos (deberán ter feitos os 18 anos antes
   da data da carreira), ata os 34 anos.
 * Categoría Máster A, masculina e feminina: atletas dende o día que cumpran 35 anos ata os 45 anos.
 * Categoría Máster B, masculina e feminina: atletas dende o día que cumpran 46 anos ata os 56 anos.
@@ -183,7 +183,7 @@ da web do evento.
 Realizaranse as seguintes clasificacións:
 
 * Clasificación xeral absoluta, masculina e feminina.
-* Clasificación por categorías, masculina e feminina: Senior e Master A, B, C.
+* Clasificación por categorías, masculina e feminina: Sénior e Master A, B, C.
 
 ## Premios
 
@@ -227,16 +227,16 @@ Para poder optar aos premios é importante coñecer que:
   atletas deberán realizar a súa inscrición individualmente (especificando no formulario de inscrición o equipo ao que
   pertencen) e posteriormente deberán enviar por correo electrónico a
   dirección [info@santyago10k.run](mailto:info@santyago10k.run) un listado detallando os membros computables ao efecto.
-  A data límite para enviar este listado é o 26 de abril ás 23:59.
+  A data límite para enviar este listado é o 24 de abril ás 23:59.
 
   E imprescindible o cumprimento destes dous requisitos para obtar á premiación por equipos.
 
 * En caso de empate entre equipos, premiarase o que menor suma total de tempos empregasen en rematar a proba.
-* Os premiados na categoría de corredores de maior idade “Cándido Calvo” deberán acreditar a súa idade cun documento
-  oficial (DNI, Pasaporte ou similar).
-    * En caso de empate na data de nacemento, premiarase o corredor que menor tempo empregase en rematar a proba.
-* Os premiados na categoría de corredor local, deberán acreditalo cun documento oficial (DNI, pasaporte ou similar).
-    * Enténdese como corredor local calquera corredor do Concello de Santiago de Compostela.
+* En caso de empate na data de nacemento na categoría de corredores de maior idade “Cándido Calvo”, premiarase o
+  corredor que menor tempo empregase en rematar a proba.
+* Enténdese como corredor local calquera corredor do Concello de Santiago de Compostela.
+
+Toda a premiación deberá ser acreditada cun documento oficial (DNI, pasaporte ou similar).
 
 ## Entrega de premios
 
