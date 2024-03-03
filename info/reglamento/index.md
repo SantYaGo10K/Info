@@ -1,4 +1,4 @@
-# Reglamento 2024
+# Regulamento 2024
 
 <link rel="stylesheet" href="/assets/styles/numbering.css" />
 
