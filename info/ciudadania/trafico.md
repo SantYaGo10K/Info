@@ -29,9 +29,9 @@ puedes ocultar las que no te interesen.
     * Amarillo: _podrá entrar o salir con su vehículo, pero no ambas (leer indicaciones)_.
 
 _Para visualizar correctamente el mapa, **haz zoom** en la zona que te interesa. Si tienes problemas, puedes
-[abrirlo en Google Maps haciendo clic en este enlace](https://www.google.com/maps/d/u/0/viewer?mid=1WBxiAONkM7468RsE0kNdyat8kuC-qlI)._
+[abrirlo en Google Maps haciendo clic en este enlace](https://www.google.com/maps/d/u/0/viewer?mid=1VDc1x1_Q_o6omn54nvkFn551-ififbw)._
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1WBxiAONkM7468RsE0kNdyat8kuC-qlI&ehbc=2E312F" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1VDc1x1_Q_o6omn54nvkFn551-ififbw&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ## Desvíos de Tráfico
 
