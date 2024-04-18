@@ -8,7 +8,7 @@ en esta página encontrarás la información relativa a los **cortes y desvíos 
 En esta página contiene tanto un [Mapa Interactivo](#mapa-interactivo) como un
 [listado de las calles](#desvios-de-tráfico) que se verán afectadas (y qué alternativas tiene para circular).
 
-* **Corte de Tráfico**: Sábado, 27 de Abril del 2024 **de 20:45 a 23:30**.
+* **Corte de Tráfico**: Sábado, 27 de Abril del 2024 **de 21:00 a 23:30**.
 
 !!! question "Necesito ayuda"
 
