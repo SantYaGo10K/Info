@@ -14,10 +14,10 @@
 
     Los dorsales se podrán recoger en las siguientes ubicaciones:
 
-    * **Viernes, 28 de Abril**
+    * **Viernes, 26 de Abril**
         * 10:30 a 21:30: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
           Santiago de Compostela).
-    * **Sábado, 29 de Abril** (_día de la carrera_)
+    * **Sábado, 27 de Abril** (_día de la carrera_)
         * 10:30 a 14:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
           Santiago de Compostela).
         * 16:00 a 21:00: Praza do Obradoiro.
