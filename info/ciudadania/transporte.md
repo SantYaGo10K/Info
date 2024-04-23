@@ -24,7 +24,7 @@ de los usuarios.
 > **Teléfono de información**: [981 58 18 15](tel:+34981581815) / [901 12 00 54](tel:+34901120054)
 
 Fuente:
-_[tussa.org, Desvíos no transporte urbano (sábado 29/4/2023, de 21:30 a 23:30)](https://tussa.org/web/actualidade/nova.php?id=828&lg=gal)_
+_[tussa.org, Desvíos no transporte urbano (sábado 27/4/2024, de 21:00 a 23:30)](https://tussa.org/web/actualidade/nova.php?id=891&lg=gal)_
 
 ## En PDF
 
