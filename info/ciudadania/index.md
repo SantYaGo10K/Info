@@ -25,7 +25,7 @@ son las siguientes:
 
 Con respecto al tráfico, estas son las horas importantes:
 
-- `21:15`: Corte de tráfico en las calles afectadas.
+- `21:00`: Corte de tráfico en las calles afectadas.
 - Gradualmente, _según vayan pasando los últimos corredores_, se irá abriendo el tráfico de manera progresiva en las
   primeras zonas.
 - `23:30`: Previsiblemente, a esta hora todo el flujo de tráfico estará reestablecido en la ciudad.
