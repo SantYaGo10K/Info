@@ -1,9 +1,5 @@
 # Transporte Público
 
-!!! info
-
-    Esta información se basa en la anterior edición; todavía está pendiente de confirmar.
-
 La VIII Carrera Nocturna SantYaGo10K discurre por varias de las principales vías de Santiago de Compostela. Debido a los
 cortes de tráfico requeridos para la realización de la prueba deportiva, **varías líneas de transporte público se verán
 afectadas**, desviando su recorrido o viéndose interrumpidas temporalmente. En esta página podrás encontrar información
