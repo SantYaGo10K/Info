@@ -1,18 +1,14 @@
 # Cortes de Tráfico
 
-!!! info
-
-    Esta información se basa en la anterior edición; todavía está pendiente de confirmar.
-
-La XIX Carrera Nocturna SantYaGo10K discurre por varias de las principales vías de Santiago de Compostela. Por ello,
+La VIII Carrera Nocturna SantYaGo10K discurre por varias de las principales vías de Santiago de Compostela. Por ello,
 en esta página encontrarás la información relativa a los **cortes y desvíos de tráfico en las calles afectadas**.
 
-[Recorrido](https://2025.santyago10k.run/es/durante/recorrido){ .md-button }
+[Recorrido](https://2024.santyago10k.run/es/durante/recorrido){ .md-button }
 
 En esta página contiene tanto un [Mapa Interactivo](#mapa-interactivo) como un
 [listado de las calles](#desvios-de-tráfico) que se verán afectadas (y qué alternativas tiene para circular).
 
-* **Corte de Tráfico**: Sábado, 10 de Mayo del 2025 **de 21:00 a 23:30**.
+* **Corte de Tráfico**: Sábado, 27 de Abril del 2024 **de 21:00 a 23:30**.
 
 !!! question "Necesito ayuda"
 

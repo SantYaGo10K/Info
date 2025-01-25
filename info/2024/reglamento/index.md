@@ -1,4 +1,4 @@
-# Regulamento 2025
+# Regulamento 2024
 
 <link rel="stylesheet" href="/assets/styles/numbering.css" />
 
@@ -7,8 +7,8 @@
 O **Club Atletismo Fontes do Sar** e o **Departamento Municipal de Deportes do Concello de Santiago** coorganizan, co
 control técnico do comité galego de xuíces da **Federación Galega de Atletismo**:
 
-A 9ª carreira nocturna SANTYAGO10K, Cidades PATRIMONIO DA HUMANIDADE, sobre unha distancia homologada de 10km en ruta
-urbana, que se levará a cabo o vindeiro sábado **10 de Maio de 2025** e que dará comezo ás **22:00 horas**.
+A 8ª carreira nocturna SANTYAGO10K, Cidades PATRIMONIO DA HUMANIDADE, sobre unha distancia homologada de 10km en ruta
+urbana, que se levará a cabo o vindeiro sábado **27 de Abril de 2024** e que dará comezo ás **22:00 horas**.
 
 ## Circuíto
 
@@ -36,16 +36,16 @@ aproximadamente 1 hora e 30 minutos despois da saída).
 A inscrición realizarase a través de calquera dos seguintes medios autorizados:
 
 * De maneira on-line, a través da páxina web oficial do
-  evento ([https://2025.santyago10k.run/](https://2024.santyago10k.run/)).
+  evento ([https://2024.santyago10k.run/](https://2024.santyago10k.run/)).
     * O pagamento realizarse de maneira on-line por medio de tarxeta de débito/crédito na plataforma na mesma páxina.
 * De maneira presencial, no Multiusos Fontes do Sar ou no Complexo Deportivo Santa Isabel.
   * O pagamento realizarase de maneira presencial en efectivo.
 
 Os prezos de inscrición, en función da data, serán os seguintes **ata completar @s 1500 participantes:**
 
-* Do 1 de febreiro ás 00:00 ata o 2 de marzo ás 23:59 horas: **10 euros**.
-* Do 3 de marzo ás 00:00 ata o 4 de maio ás 23:59: **13 euros**.
-* Do 5 de maio as 00:00 ata o 7 de maio as 23:59: **20 euros**.
+* Do 26 de febreiro ás 00:00 ata o 31 de marzo ás 23:59 horas: **10 euros**.
+* Do 1 de abril ás 00:00 ata o 21 de abril ás 23:59: **13 euros**.
+* Do 22 de abril as 00:00 ata o 24 de abril as 23:59: **20 euros**.
     * Só dispoñible de maneira on-line a través da páxina web oficial do evento
 
 Non se aceptarán inscricións de ningún tipo fóra dos modos e prazos aquí indicados. A organización resérvase o dereito
@@ -84,10 +84,10 @@ non se procederá a reintegro da inscrición.
 
 As datas previstas para a recollida serán:
 
-* **Venres 9 de Maio**
+* **Venres 26 de Abril**
     * 10:30 a 21:30: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
       Santiago de Compostela).
-* **Sábado 10 de Maio** (día da carreira)
+* **Sábado 27 de Abril** (día da carreira)
     * 10:30 a 14:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
       Santiago de Compostela).
     * 16:00 a 21:00: Praza do Obradoiro.
