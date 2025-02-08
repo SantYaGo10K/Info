@@ -94,8 +94,8 @@ En caso de empate, se premiará al que menor suma de tiempo tenga.
 
 Se entregarán los siguientes trofeos de manera especial:
 
-* Premio especial "Cándido Calvo" al **atleta de mayor edad** que finalice la prueba.
-    * Se entregará indistintamente de ser masculino o femenino.
+* Premio especial "Cándido Calvo" a los **atletas de mayor edad** que finalicen la prueba.
+    * Se entregará un trofeo al atleta masculino y otro trofeo a la atleta femenina.
 * Premio especial al **atleta local mejor clasificado** en la prueba.
     * Se entregará un trofeo al atleta masculino y otro trofeo a la atleta femenina empadronados en Santiago de
       Compostela mejor clasificados.

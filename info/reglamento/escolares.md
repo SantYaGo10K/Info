@@ -1,4 +1,4 @@
-# Regulamento 2025
+# Regulamento Escolares 2025
 
 <link rel="stylesheet" href="/assets/styles/numbering.css" />
 
@@ -7,13 +7,12 @@
 O **Club Atletismo Fontes do Sar** e o **Departamento Municipal de Deportes do Concello de Santiago** coorganizan, co
 control técnico do comité galego de xuíces da **Federación Galega de Atletismo**:
 
-A 9ª carreira nocturna SANTYAGO10K, Cidades PATRIMONIO DA HUMANIDADE, sobre unha distancia homologada de 10km en ruta
-urbana, que se levará a cabo o vindeiro sábado **10 de Maio de 2025** e que dará comezo ás **22:00 horas**.
+A carreira SANTYAGO10K Escolares, sobre unha distancia de aproximadamente 4km en ruta urbana, que se levará a cabo o
+vindeiro sábado **10 de Maio de 2025** e que dará comezo ás **20:00 horas**.
 
 ## Circuíto
 
-O circuíto foi medido e homologado pola Real Federación Española de Atletismo (RFEA) e discorrerá polo casco urbano da
-cidade de Santiago de Compostela.
+O circuíto discorrerá polo casco vello da cidade de Santiago de Compostela.
 
 O circuito será pechado ao tráfico e será acotado con valados e outros elementos nos tramos que non exista unha
 delimitación natural. Será obrigatorio para os participantes correr sempre dentro da zona acotada e estará prohibido o
@@ -28,8 +27,8 @@ A carreira estará baixo o control técnico do Comité Galego de Xuíces da Fede
 
 ## Peche de control
 
-O peche da proba realizarase unha hora despois do tempo empregado polo primeiro atleta en cruzar a liña de meta (
-aproximadamente 1 hora e 30 minutos despois da saída).
+O peche da proba realizarase media hora despois do tempo empregado polo primeiro atleta en cruzar a liña de meta (
+aproximadamente 1 hora despois da saída).
 
 ## Inscricións
 
@@ -37,48 +36,14 @@ A inscrición realizarase a través de calquera dos seguintes medios autorizados
 
 * De maneira on-line, a través da páxina web oficial do
   evento ([https://2025.santyago10k.run/](https://2024.santyago10k.run/)).
-    * _O pagamento realizarse de maneira on-line por medio de tarxeta de débito/crédito na plataforma na mesma páxina._
-* De maneira presencial, no Multiusos Fontes do Sar ou no Complexo Deportivo Santa Isabel.
-    * _O pagamento realizarase de maneira presencial en efectivo._
 
-Os prezos de inscrición, en función da data, serán os seguintes **ata completar @s 1500 participantes:**
+A proba ten unha **inscripción gratuita, sen custo**, ata completar @s 500 participantes.
 
-* Do 17 de febreiro ás 00:00 ata o 6 de abril ás 23:59 horas: **10 euros**.
-* Do 7 de abril ás 00:00 ata o 4 de maio ás 23:59: **13 euros**.
-* Do 5 de maio as 00:00 ata o 7 de maio as 23:59: **20 euros**.
-    * _Só dispoñible de maneira on-line a través da páxina web oficial do evento._
-
-Non se aceptarán inscricións de ningún tipo fóra dos modos e prazos aquí indicados. A organización resérvase o dereito
-de realizar posibles descontos na cota de inscrición tanto dentro como fóra dos prazos indicados.
-
-!!! tip "Desconto Multiusos"
-
-    O Multiusos Fontes do Sar e o Complexo Deportivo Santa Isabel, realizarán un desconto especial aos seus abonados,
-    de 2 euros, sobre o prezo no momento da inscrición. A organización poderá realizar outros descontos puntuais ou
-    temporais, así como permitir inscricións anticipadas restrinxidas.
-
-> Realizaranse varios sorteos ao longo do prazo de inscrición, aproximadamente cada 250 inscritos, de diversos obsequios
-> doados polas empresas colaboradoras.
-
-> A organización poñerase en contacto coa persoa agraciada. Esta disporá de 5 días para confirmar a data de recollida do
-> premio no establecemento correspondente. Transcorrido este tempo sen que se teña constancia por parte do agraciado,
-> anularase e voltará a se sortear de novo. Todos os premios serán anunciados con anterioridade a través das redes
-> sociais.
+Non se aceptarán inscricións de ningún tipo fóra dos modos e prazos aquí indicados.
 
 ## Límite de inscricións
 
-Establécese un **límite de 1.500 participantes**. Unha vez alcanzado o límite, contabilizando só as inscricións con pago
-confirmado, pecharase a posibilidade de inscrición.
-
-## Devolución da cota de inscrición
-
-Aceptarase só a devolución parcial da inscrición no caso de enfermidade ou grave lesión, previa presentación ao persoal
-da organización do certificado médico oficial. Cómpre comunicalo previamente no correo
-electrónico ([info@santyago10k.run](mailto:info@santyago10k.run)) e serán dadas as indicacións sobre como proceder.
-
-O importe da devolución será determinado pola data de presentación do certificado médico. Será reembolsado o 75% da cota
-presentando o xustificante ata o domingo 14 de abril e o 50% presentándoo ata o domingo 21 de abril. A partir desta data
-non se procederá a reintegro da inscrición.
+Establécese un **límite de 500 participantes**. Unha vez alcanzado o límite, pecharase a posibilidade de inscrición.
 
 ## Entrega de dorsais e chips
 
@@ -90,7 +55,7 @@ As datas previstas para a recollida serán:
 * **Sábado 10 de Maio** (día da carreira)
     * 10:30 a 14:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
       Santiago de Compostela).
-    * 16:00 a 21:00: Praza do Obradoiro.
+      * 16:00 a 19:00: Praza do Obradoiro.
 
 _Esta información está pendente de confirmación._
 
@@ -112,35 +77,18 @@ A cronometraxe estará a cargo da empresa EME SPORT mediante o sistema _sport ta
 Habilitaranse varios puntos de control ao longo do percorrido. Os participantes que non pasen por todos os puntos de
 control poderán ser descalificados se así o decide o xuíz árbitro da proba.
 
-## Caixóns de saída
-
-No momento da inscrición os participantes poderán acreditar unha marca oficial obtida anteriormente en carreiras de 10km
-en ruta homologadas. En base a estas marcas asignaranse diferentes caixóns de saída que axudarán a que a carreira sexa
-máis fluída e ordenada. Esta distribución reflexarase nos dorsais proporcionados pola organización.
-
-A organización terá dereito a reservar determinadas prazas para atletas invitados expresamente para o evento.
-
-Estableceranse polo menos catro caixóns de saída, se ben a organización poderá modificar este reparto en función do
-número de atletas inscritos que acrediten cada marca, dividindo en máis grupos se se considera beneficioso para a
-seguridade da proba. Os caixóns previstos son:
-
-* Caixón 1: Marcas inferiores a 40 minutos
-* Caixón 2: Marcas entre 40 e 45 minutos
-* Caixón 3: Marcas entre 45 e 55 minutos
-* Caixón 4: Marcas máis de 55 minutos, ou sen marca previa
-
-Os corredores estarán nos seus postos 10 minutos antes do disparo oficial da saída.
-
 ## Categorías
 
 Establécense as seguintes categorías de competición, tendo en conta a idade cumprida no día da carreira.
 
-* **Clasificación xeral absoluta**, masculina e feminina.
-* **Categoría Sénior**, masculina e feminina: atletas dende o día de cumpran 18 anos (deberán ter feitos os 18 anos antes
-  da data da carreira), ata os 34 anos.
-* **Categoría Máster A**, masculina e feminina: atletas dende o día que cumpran 35 anos ata os 45 anos.
-* **Categoría Máster B**, masculina e feminina: atletas dende o día que cumpran 46 anos ata os 55 anos.
-* **Categoría Máster C**, masculina e feminina: atletas con idades iguales ou superiores a 56 anos.
+* **Categoría Sub 12**, masculina e feminina: atletas dende o día de cumpran 10 anos (deberán ter feitos os 10 anos
+  antes da data da carreira), ata os 11 anos.
+* **Categoría Sub 14**, masculina e feminina: atletas dende o día que cumpran 12 anos ata os 13 anos.
+* **Categoría Sub 16**, masculina e feminina: atletas dende o día que cumpran 14 anos ata os 15 anos.
+* **Categoría Sub 18**, masculina e feminina: atletas dende o día que cumpran 16 anos ata os 17 anos.
+
+_Calqueira corredor que teña cumplidos os 18 anos o día da carrera non poderá participar nesta proba; deberá inscribirse
+na proba 10K para adultos._
 
 ## Medios físicos
 
@@ -156,8 +104,7 @@ participación coches, cadeiras de nenos ou animais. Non poderán correr acompa�
 
 ## Avituallamentos
 
-Seguindo as normas da FGA e RFEA para probas en ruta, instalarase un posto de avituallamento líquido arredor do
-quilómetro 5 e outro na liña de meta.
+Seguindo as normas da FGA e RFEA para probas en ruta, instalarase un posto de avituallamento líquido na liña de meta.
 
 Poñeranse a disposición dos corredores colectores para a recollida de lixo, de uso obrigatorio.
 
@@ -171,61 +118,34 @@ alerxias, atencións especiais, etc), así coma o seu grupo sanguíneo.
 
 ## Outros servizos
 
-A organización poñerá a disposición dos participantes un servizo de gardarroupa preto da liña de saída, avituallamento
-de meta e duchas á finalización da proba. Tamén se habilitarán e sinalizarán baños na zona de saída, meta e outros
-puntos do trazado.
+A organización poñerá a disposición dos participantes un servizo de avituallamento de meta e duchas á finalización da
+proba. Tamén se habilitarán e sinalizarán baños na zona de saída, meta e outros puntos do trazado.
 
-Darase máis información detallada sobre a localización de estacionamento, duchas, gardarroupa e outros servizos a través
-da web do evento.
+Darase máis información detallada sobre a localización de estacionamento, duchas e outros servizos a través da web do
+evento.
 
 ## Clasificación
 
 Realizaranse as seguintes clasificacións:
 
-* Clasificación xeral absoluta, masculina e feminina.
-* Clasificación por categorías, masculina e feminina: Sénior e Master A, B, C.
+* Clasificación por categorías, masculina e feminina: Sub 12, Sub 14, Sub 16 e Sub 18.
 
 ## Premios
 
-Repartiranse os seguintes premios en metálico:
+Obterán trofeo os tres primeiros clasificados masculino e feminino de cada categoría.
 
-* **Categoría masculina:**
-    * 1ª posición absoluta: 300 €
-    * 2ª posición absoluta: 200 €
-    * 3ª posición absoluta: 100 €
-    * 4ª posición absoluta: 75 €
-* **Categoría feminina:**
-    * 1ª posición absoluta: 300 €
-    * 2ª posición absoluta: 200 €
-    * 3ª posición absoluta: 100 €
-    * 4ª posición absoluta: 75 €
-* Premio especial de 100€, para o atleta que consiga rebaixar o record da proba:
-    * Masculino: Establecido en 32:01 minutos, no ano 2024, en posesión do atleta D. Jorge Puig Malvar.
-    * Femenino: Establecido en 37:02 minutos, no ano 2023, en posesión da atleta Dna. María Cedrón Aira.
+Tamén recibirán trofeo e premio especial dun bono de 100 € para a adquisición de material deportivo, para:
 
-Tamén **obterán trofeo os tres primeiros clasificados masculino e feminino de cada categoría e da clasificación
-absoluta**.
-
-Os dorsais reservados para os peregrinos e para a organización non optarán a ningún premio, xa que estes dorsais serán
-inscritos no mesmo día da proba. Entrarán no cronometraxe da proba pero non no cómputo para os premios.
-
-Obterán tamén trofeo as seguintes categorías especiais:
-
-* **Equipo con máis participantes chegados a meta. **
-* **Equipo Federado mellor clasificado na proba absoluta (mínimo 5 participantes, e puntuarán os 3 primeiros).**
-* **Equipo NON Federado mellor clasificado na proba absoluta (mínimo 5 participantes, e puntuarán os 3 primeiros).**
-* **Premio especial “Cándido Calvo”, para os atletas de maior idade, masculino e feminino, que finalice a proba.**
-* **O 1º corredor local masculino e femenino da clasificación da proba absoluta**
+* Mellor equipo federado.
+* Mellor equipo non federado.
+* Equipo máis numeroso.
 
 Para poder optar aos premios é importante coñecer que:
 
-* **Toda a premiación é acumulable**, a obtención de calqueira premio (xa sexa en metálico ou como trofeo) non exime da
-  obtención de calqueira outro. Por exemplo, o corredor que acade a 1ª posición na clasificación absoluta tamén obterá a
-  1ª posición na respectiva clasificación por categorías, recibindo a premiación correpondente en ambas.
 * Para optar a calqueira das premiacións por equipos, os atletas deberán realizar a súa inscrición individualmente
   (especificando no formulario de inscrición o equipo ao que pertencen) e posteriormente deberán enviar por correo
-  electrónico a dirección [info@santyago10k.run](mailto:info@santyago10k.run) un listado detallando os membros computables ao efecto. A data 
-  límite para enviar este listado é o 7 de maio do 2024 ás 23:59.  
+  electrónico a dirección [info@santyago10k.run](mailto:info@santyago10k.run) un listado detallando os membros computables ao efecto.  
+  A data límite para enviar este listado é o 7 de maio do 2024 ás 23:59.  
   E imprescindible o cumprimento destes dous requisitos para obtar á premiación por equipos.
 
 Tamén:
@@ -233,7 +153,6 @@ Tamén:
 * En caso de empate entre equipos, premiarase o que menor suma total de tempos empregasen en rematar a proba.
 * En caso de empate na data de nacemento na categoría de corredores de maior idade “Cándido Calvo”, premiarase o
   corredor que menor tempo empregase en rematar a proba.
-* Enténdese como corredor local calquera corredor do Concello de Santiago de Compostela.
 
 Toda a premiación deberá ser acreditada cun documento oficial (DNI, pasaporte ou similar).
 

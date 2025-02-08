@@ -84,6 +84,7 @@ plugins:
         '2025/reglamento.md': 'reglamento/index.md'
         '2025/reglamento/historial.md': 'reglamento/historial.md'
         '2025/reglamento/premiacion.md': 'reglamento/premiacion.md'
+        '2025/reglamento/escolares.md': 'reglamento/escolares.md'
 
 markdown_extensions:
   - codehilite
@@ -120,6 +121,8 @@ nav:
       - reglamento/index.md
       - Historial de Cambios: reglamento/historial.md
       - Premiación: reglamento/premiacion.md
+    - Reglamento Escolares:
+        - reglamento/escolares.md
     - Ciudadanía:
       - ciudadania/index.md
       - Cortes de Tráfico: ciudadania/trafico.md
