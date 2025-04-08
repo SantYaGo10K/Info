@@ -85,14 +85,12 @@ non se procederá a reintegro da inscrición.
 As datas previstas para a recollida serán:
 
 * **Venres 9 de Maio**
-    * 10:30 a 21:30: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+    * 10:30 a 21:30: El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
       Santiago de Compostela).
 * **Sábado 10 de Maio** (día da carreira)
-    * 10:30 a 14:00: Centro Comercial de El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+    * 10:30 a 14:00: El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
       Santiago de Compostela).
     * 16:00 a 21:00: Praza do Obradoiro.
-
-_Esta información está pendente de confirmación._
 
 ## Uso de dorsais e chips
 
