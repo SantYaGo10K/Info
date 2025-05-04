@@ -77,7 +77,7 @@ da organización do certificado médico oficial. Cómpre comunicalo previamente 
 electrónico ([info@santyago10k.run](mailto:info@santyago10k.run)) e serán dadas as indicacións sobre como proceder.
 
 O importe da devolución será determinado pola data de presentación do certificado médico. Será reembolsado o 75% da cota
-presentando o xustificante ata o domingo 14 de abril e o 50% presentándoo ata o domingo 21 de abril. A partir desta data
+presentando o xustificante ata o domingo 27 de abril e o 50% presentándoo ata o domingo 4 de maio. A partir desta data
 non se procederá a reintegro da inscrición.
 
 ## Entrega de dorsais e chips
