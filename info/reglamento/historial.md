@@ -9,4 +9,4 @@
     * Confirmados os lugares de recollida de dorsais.
 
 * **Domingo, 4 de Maio do 2025**
-  * Correxidos os prazos de devolución.
+    * Correxidos os prazos de devolución.
