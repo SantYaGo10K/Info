@@ -4,7 +4,7 @@
 
     Esta página es una aclaración sobre el [_Artículo 18. Premios_ del **Reglamento**](./index.md#premios).
 
-La premiación de la XIX SantYaGo10K 2025 vendrá definida por dos tipos de premios:
+La premiación de la IX SantYaGo10K 2025 vendrá definida por dos tipos de premios:
 
 * Premiación **en Metálico**: los agraciados recibirán una cuantía monetaria.
 

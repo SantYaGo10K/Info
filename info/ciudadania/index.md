@@ -4,7 +4,7 @@
 
     Esta información se basa en la anterior edición; todavía está pendiente de confirmar.
 
-Un evento como la XIX Carrera Nocturna SantYaGo10K requiere de una amplia disposición de medios, ya que es necesario
+Un evento como la IX Carrera Nocturna SantYaGo10K requiere de una amplia disposición de medios, ya que es necesario
 **ocupar gran parte de la vía pública**. Durante la realización del evento, ciertas calles sufrirán alteraciones en el
 tráfico, por lo que **tanto vehículos privados como transporte público se verán afectados**.
 
