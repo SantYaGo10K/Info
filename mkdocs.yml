@@ -124,6 +124,8 @@ nav:
       - ciudadania/index.md
       - Cortes de Tráfico: ciudadania/trafico.md
       - Transporte Público: ciudadania/transporte.md
+  - Ediciones Anteriores:
+      - ediciones.md
   - Ayuda:
     - ayuda/index.md
     - Responsables: ayuda/responsables.md
