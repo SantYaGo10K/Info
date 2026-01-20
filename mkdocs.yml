@@ -13,14 +13,14 @@ repo_name: Código Fuente
 repo_url: https://github.com/SantYaGo10K/Info
 
 # Copyright text in the footer
-copyright: Diego Barreiro Perez &copy; 2019 - 2025
+copyright: Diego Barreiro Perez &copy; 2019 - 2026
 
 # Customization
 extra:
   social:
     - icon: fontawesome/solid/globe
       link: https://www.santyago10k.run
-      name: SantYaGo10K 2025
+      name: SantYaGo10K
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/santyago10k
       name: Dános like en Instagram!
