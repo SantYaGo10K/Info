@@ -1,18 +1,14 @@
 # Cortes de Tráfico
 
-!!! info
-
-    Esta información se basa en la anterior edición; todavía está pendiente de confirmar.
-
-La X Carrera Nocturna SantYaGo10K discurre por varias de las principales vías de Santiago de Compostela. Por ello,
+La IX Carrera Nocturna SantYaGo10K discurre por varias de las principales vías de Santiago de Compostela. Por ello,
 en esta página encontrarás la información relativa a los **cortes y desvíos de tráfico en las calles afectadas**.
 
-[Recorrido](https://www.santyago10k.run/es/durante/recorrido){ .md-button }
+[Recorrido](https://2025.santyago10k.run/es/durante/recorrido){ .md-button }
 
 En esta página contiene tanto un [Mapa Interactivo](#mapa-interactivo) como un
 [listado de las calles](#desvios-de-tráfico) que se verán afectadas (y qué alternativas tiene para circular).
 
-* **Corte de Tráfico**: Sábado, 30 de Mayo del 2026 **de 21:00 a 23:30**.
+* **Corte de Tráfico**: Sábado, 10 de Mayo del 2025 **de 21:00 a 23:30**.
 
 !!! question "Necesito ayuda"
 
@@ -36,6 +32,15 @@ _Para visualizar correctamente el mapa, **haz zoom** en la zona que te interesa.
 [abrirlo en Google Maps haciendo clic en este enlace](https://www.google.com/maps/d/u/0/viewer?mid=1VDc1x1_Q_o6omn54nvkFn551-ififbw)._
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1VDc1x1_Q_o6omn54nvkFn551-ififbw&ehbc=2E312F" width="100%" height="480"></iframe>
+
+## Carrera de Escolares
+
+El corte de tráfico en Costa de San Francisco, Rúa de San Francisco y Avenida de Xoan XXIII (parte baja) se realiza
+a las 19:30, debido a la salida de la Carrera de Escolares a las 20:00. Estas calles permanecerán totalmente cerradas
+al tráfico desde las 19:30 hasta el final de la carrera 10K.
+
+Además, se cortará en tráfico también en Rúa dos Xasmíns hasta las 21:00, que es cuando estimamos que acabe esta
+otra prueba. Esta calle no se verá cortada en la prueba 10K.
 
 ## Desvíos de Tráfico
 
