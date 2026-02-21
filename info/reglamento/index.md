@@ -41,7 +41,7 @@ A inscrición realizarase a través de calquera dos seguintes medios autorizados
 * De maneira presencial, no Multiusos Fontes do Sar ou no Complexo Deportivo Santa Isabel.
     * _O pagamento realizarase de maneira presencial en efectivo._
 
-Os prezos de inscrición, en función da data, serán os seguintes **ata completar @s 1500 participantes:**
+Os prezos de inscrición, en función da data, serán os seguintes **ata completar @s 2000 participantes:**
 
 * Do 1 de marzo ás 00:00 ata o 26 de abril ás 23:59 horas: **12 euros**.
 * Do 27 de abril ás 00:00 ata o 24 de maio ás 23:59: **15 euros**.
