@@ -224,7 +224,7 @@ Para poder optar aos premios é importante coñecer que:
 * Para optar a calqueira das premiacións por equipos, os atletas deberán realizar a súa inscrición individualmente
   (especificando no formulario de inscrición o equipo ao que pertencen) e posteriormente deberán enviar por correo
   electrónico a dirección [info@santyago10k.run](mailto:info@santyago10k.run) un listado detallando os membros computables ao efecto. A data
-  límite para enviar este listado é o 7 de maio do 2024 ás 23:59.  
+  límite para enviar este listado é o 27 de maio do 2024 ás 23:59.  
   E imprescindible o cumprimento destes dous requisitos para obtar á premiación por equipos.
 
 Tamén:
