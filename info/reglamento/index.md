@@ -88,7 +88,7 @@ As datas previstas para a recollida serán:
     * 10:30 a 21:30: El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
       Santiago de Compostela).
 * **Sábado 30 de Maio** (día da carreira)
-    * 10:30 a 14:00: El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
+    * 10:30 a 13:30: El Corte Inglés Compostela - Departamento de Deportes (rúa Restollal 50,
       Santiago de Compostela).
     * 16:00 a 21:00: Praza do Obradoiro.
 

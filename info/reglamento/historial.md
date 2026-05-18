@@ -4,3 +4,6 @@
 
 * **Venres, 20 de Febreiro do 2026**
     * Publicada a primeira versión do Reglamento.
+
+* **Luns, 18 de Maio do 2026**
+  * Correxido o horario de recollida de dorsais.
