@@ -1,9 +1,5 @@
 # Cortes de Tráfico
 
-!!! info
-
-    Esta información se basa en la anterior edición; todavía está pendiente de confirmar.
-
 La X Carrera Nocturna SantYaGo10K discurre por varias de las principales vías de Santiago de Compostela. Por ello,
 en esta página encontrarás la información relativa a los **cortes y desvíos de tráfico en las calles afectadas**.
 
@@ -33,9 +29,9 @@ puedes ocultar las que no te interesen.
     * Amarillo: _podrá entrar o salir con su vehículo, pero no ambas (leer indicaciones)_.
 
 _Para visualizar correctamente el mapa, **haz zoom** en la zona que te interesa. Si tienes problemas, puedes
-[abrirlo en Google Maps haciendo clic en este enlace](https://www.google.com/maps/d/u/0/viewer?mid=1VDc1x1_Q_o6omn54nvkFn551-ififbw)._
+[abrirlo en Google Maps haciendo clic en este enlace](https://www.google.com/maps/d/u/0/viewer?mid=1wEZgau44XQ-Bl1eq1IooIpE8qSEaiiI)._
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1VDc1x1_Q_o6omn54nvkFn551-ififbw&ehbc=2E312F" width="100%" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wEZgau44XQ-Bl1eq1IooIpE8qSEaiiI&ehbc=2E312F" width="100%" height="480"></iframe>
 
 ## Desvíos de Tráfico
 
