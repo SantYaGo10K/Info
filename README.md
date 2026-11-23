@@ -1,3 +1,3 @@
 # Info
 
-Página de Ayuda de la Carrera Nocturna SantYaGo10K 2026
+Página de Ayuda de la Carrera Nocturna SantYaGo10K 2027

@@ -1,5 +1,9 @@
 # Todas las Ediciones
 
+## 2027 - 11ª Edición
+
+[30 de Mayo del 2026](./2027/index.md){ .md-button }
+
 ## 2026 - 10ª Edición
 
 [30 de Mayo del 2026](./2026/index.md){ .md-button }

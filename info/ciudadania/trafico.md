@@ -1,5 +1,9 @@
 # Cortes de Tráfico
 
+!!! info
+
+    Esta información se basa en la anterior edición; todavía está pendiente de confirmar.
+
 La X Carrera Nocturna SantYaGo10K discurre por varias de las principales vías de Santiago de Compostela. Por ello,
 en esta página encontrarás la información relativa a los **cortes y desvíos de tráfico en las calles afectadas**.
 

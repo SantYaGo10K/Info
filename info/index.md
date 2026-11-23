@@ -1,6 +1,6 @@
-# 2026 - 10ª Edición
+# 2027 - 11ª Edición
 
-**30 de Mayo del 2026**
+**29 de Mayo del 2027**
 
 [www.santyago10k.run](https://www.santyago10k.run/)
 

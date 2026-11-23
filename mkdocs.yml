@@ -13,7 +13,7 @@ repo_name: Código Fuente
 repo_url: https://github.com/SantYaGo10K/Info
 
 # Copyright text in the footer
-copyright: Diego Barreiro Perez &copy; 2019 - 2026
+copyright: Diego Barreiro Perez &copy; 2019 - 2027
 
 # Customization
 extra:
@@ -80,10 +80,10 @@ plugins:
       fallback_to_build_date: true
   - redirects:
       redirect_maps:
-        '2026/index.md': 'index.md'
-        '2026/reglamento.md': 'reglamento/index.md'
-        '2026/reglamento/historial.md': 'reglamento/historial.md'
-        '2026/reglamento/premiacion.md': 'reglamento/premiacion.md'
+        '2027/index.md': 'index.md'
+        '2027/reglamento.md': 'reglamento/index.md'
+        '2027/reglamento/historial.md': 'reglamento/historial.md'
+        '2027/reglamento/premiacion.md': 'reglamento/premiacion.md'
 
 markdown_extensions:
   - codehilite
